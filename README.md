@@ -22,6 +22,6 @@ pip3 install jupyter
 
 ### Option 2: Run this notebook on [mybinder.org](https://mybinder.org)
 A very convenient way to quickly getting started by running the notebook on a remote jupyter notebook instance. 
-Just click on this binder link to start a remote jupyter notebook session: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/strawpants/daisyworld/da6bc03039f1e72d89c8fa726fe7c269d41bdab9)
+Just click on this binder link to start a remote jupyter notebook session: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITC-Water-Resources/daisyworld/HEAD)
 
 
